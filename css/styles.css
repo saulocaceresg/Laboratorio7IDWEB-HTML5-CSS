@@ -36,3 +36,16 @@ button {
     border-radius: 7px;
     padding: 10px;
 }
+
+/* Ejercicio 9 */
+div.contenedor {
+    border: solid 2px black;
+    background-color: lightgray;
+}
+div.continter1 {
+    border-radius: 10px;
+    background-color: lightblue;
+}
+div.continter2 {
+    box-shadow: 4px 4px 3px gray;
+}
