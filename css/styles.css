@@ -12,3 +12,11 @@ p {
     text-align: center;
     font-size: 24px;
 }
+
+/* Ejercicio 6 */
+div {
+    background-color: yellow;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 15px;
+}
