@@ -1,6 +1,14 @@
+/* Ejercicio 4 */
 h1 {
     color: green;
 }
 p {
     font-style: italic;
+}
+
+/* Ejercicio 5 */
+.titulo {
+    color: red;
+    text-align: center;
+    font-size: 24px;
 }
